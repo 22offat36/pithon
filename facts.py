@@ -1,5 +1,6 @@
 def fact():
 #added comment
+#added second comment
     number=input("Enter a number to get the factorial: ")
     initialvalue=0
     factorial=1
